@@ -14,6 +14,15 @@ been selected for this study, due to the overhead of computation. For each subje
 the number of images present is different, each image having a dimension of 250 x 250
 pixels and 96 dpi. The images have been captured at different times, in varying light,
 varied facial expressions such as open or closed eyes, smiling or not smiling and varied
-facial details such as glasses or no glasses
+facial details such as glasses or no glasses.
 
 ![image](https://user-images.githubusercontent.com/111882479/186173385-59d5cbdd-3847-4898-b882-ceabef897157.png)
+
+# Average face
+![image](https://user-images.githubusercontent.com/111882479/186173703-d2b22b6a-ce40-4cb6-b7bc-1602bef8f902.png)
+
+# Eigenface
+![image](https://user-images.githubusercontent.com/111882479/186174173-22232ddd-1876-4e63-bb8f-528a0b91afa2.png)
+
+
+
