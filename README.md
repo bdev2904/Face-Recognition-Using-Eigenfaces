@@ -25,4 +25,11 @@ facial details such as glasses or no glasses.
 ![image](https://user-images.githubusercontent.com/111882479/186174173-22232ddd-1876-4e63-bb8f-528a0b91afa2.png)
 
 
+#Confusion matrix
+
+The system successfully recognized the human faces and worked well in different conditions of face orientation.
+
+![image](https://user-images.githubusercontent.com/111882479/186174595-60db88c0-efc4-4189-9022-83f427850534.png)
+
+
 
